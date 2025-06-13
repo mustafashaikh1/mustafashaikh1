@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1neha23&label=Profile%20views&color=0e75b6&style=flat" alt="1neha23"
                     /> </p>
 
-- 🔭 I’m currently working on [Hostel Management System-Jui Hostel Pune](https://github.com/mustafashaikh1/HostelMgmt)
+- 🔭 I’m currently working on [Hostel Management System-Jui Hostel Pune]([https://github.com/mustafashaikh1/HostelMgmt](https://pjsofttech.in/hostel/website/))
 
 - 🌱 I’m currently working on <br> **
 <ul>
