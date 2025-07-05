@@ -1,4 +1,5 @@
 [PortFolio](http://portfolios.ecti.co.in/MustafaS/)
+
 <h1 align="center">Hi 👋, I'm Mustafa Shaikh</h1>
 <h3 align="center">🚀 Full Stack Java Developer | 🧪 QA Engineer (Manual & Automation)</h3>
 
@@ -12,72 +13,116 @@
 
 ---
 
-### 🚧 Currently Working On:
-- 🔭 [Hostel Management System - Jui Hostel Pune](https://pjsofttech.in/hostel/website/)
-- 👨‍💻 Projects: [GitHub](https://github.com/mustafashaikh1)
+## 💼 About Me
+
+- 🔭 I’m currently working on [Hostel Management System - Jui Hostel Pune](https://pjsofttech.in/hostel/website/)
+- 🎯 A passionate developer and tester with hands-on experience in Java technologies, UI/UX development, REST APIs, test automation, and CI/CD pipelines.
+- 💬 Ask me about **Java, Selenium, Spring Boot, React, REST APIs, Testing, Maven, Git, SQL**
+- 💻 All of my projects are available on [GitHub](https://github.com/mustafashaikh1)
+- 📫 Reach me at: **mustafashaikh0550@gmail.com**
+- ⚡ Fun fact: **I once debugged a tricky bug in my dream and woke up with the solution!**
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
-#### 🧠 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 🧠 Programming Languages
+- Java (Core Java 8, J2EE)
+- JavaScript
+- SQL
+- HTML5 / CSS3
 
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+### 🌐 Frontend Development
+- React JS
+- Bootstrap / Material UI / Materialize CSS
+- Responsive Web Design
+- RESTful Frontend Integration
 
-#### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST--API-1E90FF?style=for-the-badge&logo=rest&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge)
+### 🔙 Backend Development
+- Spring Boot
+- Spring MVC, Spring Security
+- Hibernate / JPA
+- Microservices
+- Servlets / JSP
+- API Versioning & Exception Handling
+- JWT, OAuth2 Integration
+- Multithreading
+- Design Patterns (Singleton, Factory, MVC, DAO)
 
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗃️ Databases
+- MySQL
+- PostgreSQL
+- Oracle DB
+- SQL Joins, Triggers, Views, Stored Procedures
 
-#### 🧪 Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FC8019?style=for-the-badge&logo=postman&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Extent Reports](https://img.shields.io/badge/Extent%20Reports-1F2937?style=for-the-badge&logoColor=white)
+### 🧪 Testing & QA
+- Manual Testing
+- Selenium WebDriver
+- TestNG
+- Apache POI (Excel-driven testing)
+- Page Object Model (POM)
+- Hybrid Framework (Data Driven + Modular)
+- Smoke, Sanity, Regression, Functional Testing
+- Cross Browser Testing
+- Bug Tracking (JIRA, Excel Sheets)
+- Defect Lifecycle Management
 
-#### 🧰 Tools
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![STS](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white)
+### 🧰 Tools & Platforms
+- Maven
+- Git / GitHub / GitLab
+- STS (Spring Tool Suite)
+- VS Code
+- IntelliJ IDEA
+- Tomcat Server
+- Jenkins (CI/CD)
+- Docker Basics
+- Postman (API Testing)
+- Swagger UI
+- Log4j, SLF4J
+- AWS S3 (file storage)
+
+### 🧠 Core Concepts
+- OOP (Inheritance, Polymorphism, Abstraction, Encapsulation)
+- RDBMS (Normalization, Joins, Keys)
+- Agile/Scrum Methodology
+- SDLC & STLC
 
 ---
 
-### 💡 Testing Concepts
-- ✅ Manual & Automation Testing  
-- 🧪 Test Case Design & Execution  
-- 🐞 Bug Reporting & Defect Lifecycle  
-- 🔄 Regression, Functional, Smoke Testing  
-- 🌐 Cross-Browser Testing  
-- 🧩 Hybrid Framework (Page Object Model)
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-### 📚 Coursework
-- ⚙️ Object-Oriented Programming (OOPs)  
-- 🗃️ Relational Database Management System (RDBMS)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafashaikh1&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
+  <br>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mustafashaikh1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafashaikh1&theme=burnt-neon&short_numbers=true&exclude_days=Mon" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📬 Contact Me
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="mailto:mustafashaikh0550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -87,20 +132,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafashaikh1&theme=burnt-neon&exclude_days=Sun,Mon" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mustafashaikh1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150" alt="Top Languages"/>
-</p>
-
----
-
-### ⚡ Fun Fact
-> I once debugged a tricky code issue by dreaming about it – and woke up with the solution! 😄
+### 🎯 Quote to Live By:
+> *“The best way to predict the future is to create it.” – Abraham Lincoln*
 
