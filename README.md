@@ -118,7 +118,11 @@
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mustafashaikh1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafashaikh1&theme=burnt-neon&short_numbers=true&exclude_days=Mon" alt="GitHub Streak" />
+  <br><br>
+  <b style="color:#F85D7F">🚀 Total commits in 2025: <span style="color:#F8D866">567</span></b>
 </p>
+
+
 
 ---
 
