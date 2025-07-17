@@ -113,63 +113,65 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafashaikh1&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-  <!-- Top Languages -->
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mustafashaikh1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide=html,css" alt="Top Languages" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafashaikh1&theme=burnt-neon&short_numbers=true&exclude_days=Mon&border=7F3FBF&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
-  
+  <!-- Stats Row 1: Main Stats + Top Languages -->
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafashaikh1&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mustafashaikh1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide=html,css" alt="Top Languages"/>
+  </div>
+
+  <!-- Stats Row 2: Streak Stats -->
+  <div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mustafashaikh1&theme=burnt-neon&short_numbers=true&exclude_days=Mon&border=7F3FBF&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
+  </div>
+
   <!-- Trophy Case -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mustafashaikh1&theme=onedark&no-bg=true&no-frame=true&title=Commits,Repositories,Followers,Issues,PullRequest&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mustafashaikh1&theme=onedark&no-bg=true&no-frame=true&title=Commits,Repositories,Followers,Issues,PullRequest&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  </div>
+</p>
   
-  <!-- Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=mustafashaikh1&theme=react-dark&bg_color=0D1117&hide_border=true&color=F85D7F&line=F8D866&point=F85D7F" alt="Activity Graph" />
+
+
   
-  <!-- Contribution Metrics -->
+<!-- Contribution Metrics -->
+<div align="center">
   <table>
     <tr>
-      <td>
+      <td align="right" width="50%">
         <b style="color:#F85D7F">🚀 Total Commits (2025):</b>
       </td>
-      <td>
-        <span style="color:#F8D866">567</span>
+      <td align="left" width="50%">
+        <span style="color:#F8D866">1054</span>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="right">
         <b style="color:#F85D7F">📅 Daily Average:</b>
       </td>
-      <td>
-        <span style="color:#F8D866">3.2</span>
+      <td align="left">
+        <span style="color:#F8D866">4.2</span>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="right">
         <b style="color:#F85D7F">🌟 Stars Earned:</b>
       </td>
-      <td>
-        <span style="color:#F8D866">42</span>
+      <td align="left">
+        <span style="color:#F8D866">68</span>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="right">
         <b style="color:#F85D7F">🍴 Repos Forked:</b>
       </td>
-      <td>
+      <td align="left">
         <span style="color:#F8D866">28</span>
       </td>
     </tr>
   </table>
+</div>
   
-  <!-- Visitor Counter -->
-  <p align="center"> 
-    <b>Visitors Count</b><br>
-    <img src="https://profile-counter.glitch.me/mustafashaikh1/count.svg" />
-  </p>
-</p>
+
 
 ---
 
