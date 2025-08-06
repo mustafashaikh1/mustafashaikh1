@@ -15,7 +15,11 @@
 
 ## 💼 About Me
 
-- 🔭 I’m currently working on [Venture Capital System]()
+- 🔭 I’m currently working on [Venture Capital System]
+-  Project Name: Venture Capital System
+   Client: K2 VENTURE CAPITAL (Thailand)
+   Domain: Investment Banking
+   Role: Software Test Engineer
 - 🎯 A passionate developer and tester with hands-on experience in Java technologies, UI/UX development, REST APIs, test automation, and CI/CD pipelines.
 - 💬 Ask me about **Java, Selenium, Spring Boot, React, REST APIs, Testing, Maven, Git, SQL**
 - 💻 All of my projects are available on [GitHub](https://github.com/mustafashaikh1)
