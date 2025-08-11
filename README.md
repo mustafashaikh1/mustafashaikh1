@@ -137,7 +137,7 @@
         <b style="color:#F85D7F">🚀 Total Commits (2025):</b>
       </td>
       <td align="left" width="50%">
-        <span style="color:#F8D866">1054</span>
+        <span style="color:#F8D866">1237</span>
       </td>
     </tr>
     <tr>
